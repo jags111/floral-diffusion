@@ -7,6 +7,8 @@ Floral Diffusion V1 Floral diffusion is a trained model set of 10 K floral sets 
 
 <p align=center>
 <a href="https://github.com/jags111/floral-diffusion/blob/main/Floral_Diffusion_V1_DD_v5_6.ipynb"><img src="https://img.shields.io/badge/Open-in%20Colab-brightgreen?logo=google-colab&style=flat-square" alt="Open in Google Colab"/></a>
+<br>
+<img src = "https://github.com/jags111/floral-diffusion/blob/main/images/collage001.jpg" width = "50%">
 </p>
 
 <sub><sup><a id="example-application">[*]</a> 
