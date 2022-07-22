@@ -22,7 +22,18 @@ Disco Diffusion is a Google Colab Notebook that leverages CLIP-Guided Diffusion 
 <a href="https://colab.research.google.com/github/jags111/floral-diffusion/blob/main/Floral_Diffusion_V1_DD_v5_6.ipynb"><img src="https://img.shields.io/badge/Open-in%20Colab-brightgreen?logo=google-colab&style=flat-square" alt="Open in Google Colab"/></a>
 
 Note, GPU is required.
+<br>
+<p>
+## Model Downloads
 
+The model pt file can be downloaded from Huggingspace or dropbox from the link below:
+
+floraldiffusion.pt Huggingface <a href = "https://huggingface.co/jags/floraldiffusion/blob/main/floraldiffusion.pt"> [Huggingface Link]</a>
+
+floraldiffusion.pt Dropbox <a href = "https://www.dropbox.com/s/i0xrhq28ls1e94g/floraldiffusion.pt?dl=1"> [DropBox Link]</a>
+
+SHA256 : 197e9068f1ca0248fd89f9d6ca1f6f851783e04fddd0cc5b0020bfa655ed3aeb
+</p>
 display_rate: 
 this is so you can see the progress on your image. By default it’s set to 20, which means you’ll see the image progress every 20 steps.
 
