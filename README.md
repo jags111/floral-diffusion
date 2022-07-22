@@ -68,7 +68,8 @@ The community is still growing and experimenting with machine learning generated
 💡 **If you are already a DD user**: you are ready to go! There is no extra learning,Floral Diffusion respects the same parameter semantics as DD5.6. So just unleash your creativity!
 
 Tools and Resources for AI Art – Constantly updated, extremely useful and fun list of tools and resources to create AI art. 
-Maintained by @pharmapsychotic, they regularly test AI art tools, post amazing results on Twitter and update the list with a link to the tool and a short description. 
+Maintained by <a href ="https://twitter.com/pharmapsychotic"> @pharmapsychotic </a>, they regularly test AI art tools, post amazing results on Twitter and update the list with a link to the tool and a short description. 
+
 Highly recommend it!
 
 <!-- start support-pitch -->
